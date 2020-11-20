@@ -1,6 +1,6 @@
 # 問題2
 
-## 問1 cssでwidth960,height300の要素にpadding,margin,borderで入力された値を引数として要素のwidthとheightを戻すメソッドを作成せよ。(単位はpx)
+## 問1 cssでwidth(任意の値),height(任意の値)の要素の,padding,margin,borderで入力された値を引数として要素のwidthを戻すメソッドとheightを戻すメソッドを作成せよ。(単位はpx)
 
 ## 問2問1のメソッドを修正し 下記の実行例を表示せよ。
 
