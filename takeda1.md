@@ -17,3 +17,8 @@ static boolean circleOrLine(int bonsaiNum,boolean isRound)
 盆栽の数を入力してください>8
 円状に8個配置する時、必要な苔玉は8個です。
 ```
+
+# 先生より
+数を返すメソッドにしたほうがよいです。
+static int circleOrLine(int bonsaiNum,boolean isRound)
+
